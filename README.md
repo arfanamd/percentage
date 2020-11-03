@@ -17,3 +17,8 @@ percentage `[-ndf] <compare> <to>`
     * -d[ifference]
     
     * -f[ractional]
+
+## Man page
+```
+man ~/percentage/percentage.1.gz
+```
